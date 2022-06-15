@@ -23,16 +23,6 @@ nav{
 
 }
 
-#Works {
-    background: url(https://media.istockphoto.com/photos/colorful-from-sunrise-picture-id524549300?b=1&k=20&m=524549300&s=170667a&w=0&h=XMRhfZ295TQqyfENhtvuUtMjpYlGJs9JxV9S59ty2OA=);
-    background-repeat: no-repeat;
-    background-size: auto;
-    height: auto;
-    margin-right: 7px;
-    margin-left: 3px;
-}
-
-
 .Container {    
     display: flex;
     flex-direction: column; 
